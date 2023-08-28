@@ -261,6 +261,7 @@ footer div a:hover {
     .img-bg-mobile {
         display: block;
         position: absolute;
+        width: 100%;
     }
 
     h1 {
